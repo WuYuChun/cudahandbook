@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/AOStoSOA.dir/./AOStoSOA_generated_AOStoSOA.cu.o  -o AOStoSOA -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

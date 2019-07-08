@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/mallocSpeed_tmp.dir/./mallocSpeed_tmp_generated_mallocSpeed.cu.o  -o mallocSpeed_tmp -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

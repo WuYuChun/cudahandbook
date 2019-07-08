@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/breakevenHtoDMemcpy.dir/memcpy16.cpp.o CMakeFiles/breakevenHtoDMemcpy.dir/./breakevenHtoDMemcpy_generated_breakevenHtoDMemcpy.cu.o  -o breakevenHtoDMemcpy -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

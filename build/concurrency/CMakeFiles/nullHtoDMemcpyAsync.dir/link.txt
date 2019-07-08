@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/nullHtoDMemcpyAsync.dir/memcpy16.cpp.o CMakeFiles/nullHtoDMemcpyAsync.dir/./nullHtoDMemcpyAsync_generated_nullHtoDMemcpyAsync.cu.o  -o nullHtoDMemcpyAsync -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

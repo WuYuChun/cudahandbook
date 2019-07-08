@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/globalCopy2.dir/./globalCopy2_generated_globalCopy2.cu.o  -o globalCopy2 -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

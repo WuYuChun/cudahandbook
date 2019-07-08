@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/nullKernelAsync.dir/memcpy16.cpp.o CMakeFiles/nullKernelAsync.dir/./nullKernelAsync_generated_nullKernelAsync.cu.o  -o nullKernelAsync -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

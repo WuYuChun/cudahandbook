@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/stream2Async.dir/./stream2Async_generated_stream2Async.cu.o  -o stream2Async -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

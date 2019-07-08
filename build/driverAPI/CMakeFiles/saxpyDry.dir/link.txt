@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/saxpyDry.dir/saxpyDrv.cpp.o CMakeFiles/saxpyDry.dir/chDrv.cpp.o CMakeFiles/saxpyDry.dir/./saxpyDry_generated_saxpy.cu.o  -o saxpyDry -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

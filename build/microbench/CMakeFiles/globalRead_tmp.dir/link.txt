@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/globalRead_tmp.dir/./globalRead_tmp_generated_globalRead.cu.o  -o globalRead_tmp -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

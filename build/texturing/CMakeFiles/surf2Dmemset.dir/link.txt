@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/surf2Dmemset.dir/./surf2Dmemset_generated_surf2Dmemset.cu.o  -o surf2Dmemset -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

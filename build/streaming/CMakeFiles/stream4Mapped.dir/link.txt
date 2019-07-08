@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/stream4Mapped.dir/./stream4Mapped_generated_stream4Mapped.cu.o  -o stream4Mapped -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

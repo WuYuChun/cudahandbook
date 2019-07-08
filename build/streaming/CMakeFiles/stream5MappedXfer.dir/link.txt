@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/stream5MappedXfer.dir/./stream5MappedXfer_generated_stream5MappedXfer.cu.o  -o stream5MappedXfer -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

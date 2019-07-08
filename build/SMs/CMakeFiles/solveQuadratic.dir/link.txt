@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/solveQuadratic.dir/./solveQuadratic_generated_solveQuadratic.cu.o  -o solveQuadratic -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/win32NullKernelStreamCallback.dir/memcpy16.cpp.o CMakeFiles/win32NullKernelStreamCallback.dir/./win32NullKernelStreamCallback_generated_win32NullKernelStreamCallback.cu.o  -o win32NullKernelStreamCallback -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

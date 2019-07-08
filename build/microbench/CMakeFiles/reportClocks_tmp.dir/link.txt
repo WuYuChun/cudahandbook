@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/reportClocks_tmp.dir/./reportClocks_tmp_generated_reportClocks.cu.o  -o reportClocks_tmp -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/tex2d_memset.dir/./tex2d_memset_generated_tex2d_memset.cu.o  -o tex2d_memset -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
