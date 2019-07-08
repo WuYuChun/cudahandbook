@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/globalWrite_tmp.dir/./globalWrite_tmp_generated_globalWrite.cu.o  -o globalWrite_tmp -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

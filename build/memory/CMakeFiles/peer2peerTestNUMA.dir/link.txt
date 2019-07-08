@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/peer2peerTestNUMA.dir/./peer2peerTestNUMA_generated_peer2peerTestNUMA.cu.o  -o peer2peerTestNUMA -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

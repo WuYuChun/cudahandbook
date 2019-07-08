@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/peer2peerMemcpy.dir/memcpy16.cpp.o CMakeFiles/peer2peerMemcpy.dir/./peer2peerMemcpy_generated_peer2peerMemcpy.cu.o  -o peer2peerMemcpy -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

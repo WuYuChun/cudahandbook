@@ -1,0 +1,15 @@
+find_package(CUDA REQUIRED)
+include_directories(${CUDA_INCLUDE_DIRS})
+include_directories(${CMAKE_SOURCE_DIR}/chLib)
+
+
+file(GLOB SRC_LIST *.cu)
+FOREACH(FILE_PATH ${SRC_LIST})
+    MESSAGE(${FILE_PATH})
+    STRING(REGEX REPLACE ".+/(.+)\\..*" "\\1" FILE_NAME ${FILE_PATH})
+    MESSAGE(${FILE_NAME})
+    set(exe_name "${FILE_NAME}_tmp")
+    message(${exe_name})
+    cuda_add_executable(${exe_name} ${FILE_PATH})
+    target_link_libraries(${exe_name} ${CUDA_LIBRARIES})
+ENDFOREACH(FILE_PATH)

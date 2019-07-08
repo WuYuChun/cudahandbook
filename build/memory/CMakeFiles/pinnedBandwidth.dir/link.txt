@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/pinnedBandwidth.dir/./pinnedBandwidth_generated_pinnedBandwidth.cu.o  -o pinnedBandwidth -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 

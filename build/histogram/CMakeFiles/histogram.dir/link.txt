@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/histogram.dir/./histogram_generated_histogram.cu.o  -o histogram -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -lpthread -Wl,-rpath,/usr/local/cuda/lib64 

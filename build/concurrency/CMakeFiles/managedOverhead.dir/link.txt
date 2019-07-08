@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/managedOverhead.dir/memcpy16.cpp.o CMakeFiles/managedOverhead.dir/./managedOverhead_generated_managedOverhead.cu.o  -o managedOverhead -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
